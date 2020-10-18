@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="enter_author_name">Enter Author Name</string>
+    <string name="enter_book_genre">Enter Book Genre</string>
+    <string name="add_book">ADD BOOK</string>
+    <string name="add_book_">Add Book</string>
+    <string name="search">Search</string>
+</resources>
